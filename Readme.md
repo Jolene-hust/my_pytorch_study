@@ -8,3 +8,8 @@
 
 
 
+
+
+## U-NET教程
+
+[Pytorch 深度学习实战教程（三）：UNet模型训练，深度解析！-CSDN博客](https://jackcui.blog.csdn.net/article/details/106349644?spm=1001.2101.3001.6661.1&utm_medium=distribute.pc_relevant_t0.none-task-blog-2~default~CTRLIST~Rate-1-106349644-blog-105671859.pc_relevant_antiscanv2&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2~default~CTRLIST~Rate-1-106349644-blog-105671859.pc_relevant_antiscanv2&utm_relevant_index=1)
